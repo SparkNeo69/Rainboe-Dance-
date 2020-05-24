@@ -1,0 +1,6 @@
+stand up 
+sit down 
+move left then right
+jump 
+and then standup again
+reapeat
